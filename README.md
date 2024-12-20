@@ -1,6 +1,8 @@
 # Proyecto Challenge Literalura con Alura
 
-![badge literalura](https://github.com/user-attachments/assets/84ffe722-f1e1-4677-b6db-504c988db199)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/84ffe722-f1e1-4677-b6db-504c988db199">
+</p>
 
 ## Descripcion del Proyecto
 
